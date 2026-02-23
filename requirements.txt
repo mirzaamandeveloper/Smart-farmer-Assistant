@@ -1,0 +1,8 @@
+streamlit
+nltk
+scikit-learn
+# openai
+google-generativeai
+speechrecognition
+googletrans==4.0.0-rc1
+pyaudio

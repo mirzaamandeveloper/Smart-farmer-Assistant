@@ -1,0 +1,157 @@
+{
+  "intents": [
+    {
+      "tag": "crop_advice",
+      "patterns": [
+        "best crop for summer",
+        "which crop to grow in summer",
+        "suggest crops for hot weather",
+        "summer season farming crops",
+        "what should I plant in summer",
+        "best crops for warm climate",
+        "crops suitable for dry season",
+        "recommended crops for my farm"
+      ],
+      "responses": [
+        "You can grow maize, cotton, groundnut, sunflower, millets, and vegetables like okra in summer."
+      ]
+    },
+    {
+      "tag": "pest_control",
+      "patterns": [
+        "pests in rice",
+        "aphids on plants",
+        "how to control pests",
+        "insects damaging crops",
+        "rice crop pest problem",
+        "how to remove plant bugs",
+        "natural pest control methods",
+        "worms in my crops",
+        "leaves eaten by insects"
+      ],
+      "responses": [
+        "Use neem oil spray, pheromone traps, or introduce natural predators like ladybugs to control pests."
+      ]
+    },
+    {
+      "tag": "fertilizer",
+      "patterns": [
+        "yellow leaves in rice",
+        "which fertilizer for wheat",
+        "plants turning yellow",
+        "best fertilizer for crops",
+        "nitrogen deficiency symptoms",
+        "urea usage in farming",
+        "how to improve plant growth",
+        "fertilizer for paddy",
+        "organic fertilizer options"
+      ],
+      "responses": [
+        "Yellow leaves indicate nitrogen deficiency. Apply urea, compost, or vermicompost for better growth."
+      ]
+    },
+    {
+      "tag": "soil_health",
+      "patterns": [
+        "how to improve soil fertility",
+        "soil is not fertile",
+        "ways to enrich soil",
+        "soil nutrients low",
+        "improving red soil fertility",
+        "best soil improvement methods",
+        "organic methods to improve soil"
+      ],
+      "responses": [
+        "Improve soil fertility by adding compost, green manure, crop rotation, and organic matter."
+      ]
+    },
+    {
+      "tag": "irrigation",
+      "patterns": [
+        "how much water for crops",
+        "best irrigation method",
+        "drip irrigation benefits",
+        "how often should I water plants",
+        "water management in farming",
+        "sprinkler irrigation advantages",
+        "irrigation for paddy fields"
+      ],
+      "responses": [
+        "Drip irrigation saves water and improves yield. Adjust watering based on crop type and soil moisture."
+      ]
+    },
+    {
+      "tag": "weather",
+      "patterns": [
+        "weather today",
+        "will it rain tomorrow",
+        "temperature forecast",
+        "rain prediction",
+        "today weather conditions",
+        "climate for farming",
+        "is it going to rain"
+      ],
+      "responses": [
+        "Please check your local weather service or app for accurate and real-time weather updates."
+      ]
+    },
+    {
+      "tag": "market_prices",
+      "patterns": [
+        "market price of tomato",
+        "crop prices today",
+        "vegetable rates",
+        "current market rates",
+        "price of rice per kg",
+        "mandi prices today",
+        "agriculture market rates"
+      ],
+      "responses": [
+        "Market prices vary daily. Please check your local mandi or agmarknet.gov.in for accurate rates."
+      ]
+    },
+    {
+      "tag": "disease_control",
+      "patterns": [
+        "plants have disease",
+        "fungus on leaves",
+        "crop disease symptoms",
+        "white spots on leaves",
+        "how to treat plant disease",
+        "leaf blight solution",
+        "brown spots on crops"
+      ],
+      "responses": [
+        "Remove infected leaves and apply appropriate fungicides or organic solutions like neem extract."
+      ]
+    },
+    {
+      "tag": "organic_farming",
+      "patterns": [
+        "what is organic farming",
+        "organic farming methods",
+        "benefits of organic farming",
+        "how to farm organically",
+        "chemical free farming",
+        "natural farming techniques"
+      ],
+      "responses": [
+        "Organic farming uses natural inputs like compost, crop rotation, and biological pest control to maintain soil health."
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hello",
+        "hi",
+        "good morning",
+        "good evening",
+        "namaste",
+        "hey"
+      ],
+      "responses": [
+        "Hello! I'm your farming assistant. How can I help you today?"
+      ]
+    }
+  ]
+}
